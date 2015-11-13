@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://imgkan.github.io
+title: imgkan
+paginate: 10
